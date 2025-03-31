@@ -32,4 +32,4 @@
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=LooOnGit&show_icons=true&locale=en&layout=compact" alt="LooOnGit" /></p>
 
 
-![snake gif](https://github.com/LooOnGit/LooOnGit/blob/output/github-snake-dark.svg)
+![snake gif](https://github.com/LooOnGit/LooOnGit/blob/output/github-snake.svg)

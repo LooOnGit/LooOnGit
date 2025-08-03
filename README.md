@@ -28,10 +28,10 @@
 <br clear="both">
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/loo24/" target="_blank">
+  <a href="https://www.linkedin.com/in/loo24/" target="blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="50" height="30" alt="linkedin logo"  />
   </a>
-    <a href="https://www.facebook.com/ic.to.161/?locale=vi_VN" target="_blank">
+    <a href="https://www.facebook.com/ic.to.161/?locale=vi_VN" target="blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="50" height="30" alt="facebook logo"  />
   </a>
   

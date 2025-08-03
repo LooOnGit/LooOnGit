@@ -48,5 +48,13 @@
 <h6 align="center">Contact info:<br>Email: tranconghoa24@gmail.com<br>Phone: (+84) 0869209724</h6>
 
 ###
+<br clear="both">
+<ul>
+<li><a target="_blank" href=""></a></li>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=LooOnGit&show_icons=true&locale=en" alt="LooOnGit" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=LooOnGit&" alt="LooOnGit" /></p>
+<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=LooOnGit&show_icons=true&locale=en&layout=compact" alt="LooOnGit" /></p>
+  
+###
 
 ![snake gif](https://github.com/LooOnGit/LooOnGit/blob/output/github-snake.svg)

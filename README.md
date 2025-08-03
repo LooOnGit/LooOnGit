@@ -1,4 +1,4 @@
-<h1>Hi 👋, I'm Loo</h1>
+<h2 align="center">Welcome to Loo profile!</h2>
 <h2>🚀 About Me</h2>
 <ul>
   <li>🔭 I'm currently working on <strong>Hardware & Firmware Development</strong></li>

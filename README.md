@@ -37,7 +37,7 @@
 
 ###
 
-<br clear="both">
+<!-- <br clear="both">
 
 <div align="center">
   <a href="https://www.linkedin.com/in/loo24/" target="blank">
@@ -52,7 +52,7 @@
   
 <!--   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/stackoverflow/default.svg" width="50" height="30" alt="stackoverflow logo"  />
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/hackerrank/default.svg" width="50" height="30" alt="hackerrank logo"  />
-</div> -->
+</div> --> -->
 
 ###
 
